@@ -10,7 +10,11 @@ Sebagai seorang intern data analyst di Kimia Farma, dilakukan analisis kinerja b
 **Visualization: Google Data Studio (Looker)**
 
 Pada proses analisis ini, digunakan empat dataset utama yang telah diimport ke Big Query. 
+
 *kf_final_transaction*
+
 *kf_product*
+
 *kf_kantor_cabang*
+
 *kf_inventory*
