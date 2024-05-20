@@ -8,8 +8,6 @@ Sebagai seorang intern data analyst di Kimia Farma, dilakukan analisis kinerja b
 
 **Tools: Google BigQuery**
 
-**Visualization: Google Data Studio (Looker)**
-
 Pada proses analisis ini, digunakan empat dataset utama yang telah diimport ke Big Query. 
 
 *kf_final_transaction*
@@ -19,3 +17,13 @@ Pada proses analisis ini, digunakan empat dataset utama yang telah diimport ke B
 *kf_kantor_cabang*
 
 *kf_inventory*
+
+
+**Visualization: Google Data Studio (Looker)**
+
+![image](https://github.com/txtmeyen11/VIX-Kimia-Farma-x-Rakamin-Academy/assets/126081314/d390b19a-82d9-4cbf-8bcc-104d82fd9e21)
+
+
+Dashboard di samping telah meliputi visualisasi Top 10 cabang provinsi dengan total transaksi tertinggi, serta 10 cabang provinsi dengan nilai nett sales terbesar. 
+
+Terdapat pula 5 cabang dengan rating tertinggi namun rating transaksi terendah, beserta visualisasi peta geografis Indonesia yang menampilkan total profit untuk setiap provinsi. 
